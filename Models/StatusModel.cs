@@ -1,4 +1,4 @@
-namespace WebApplication.Models
+namespace Together.Models
 {
     public class StatusModel
     {

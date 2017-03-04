@@ -1,7 +1,7 @@
 using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace WebApplication.Services.HttpService
+namespace Together.Services.HttpService
 {
     public class HttpService
     {

@@ -1,7 +1,7 @@
 using Xunit;
 using Moq;
 
-namespace WebApplication.Devices.Roku
+namespace Together.Devices.Roku
 {
     public class RokuTests
     {

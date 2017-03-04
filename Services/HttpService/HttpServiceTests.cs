@@ -6,7 +6,7 @@ using System;
 using System.Threading;
 using Moq.Protected;
 
-namespace WebApplication.Services.HttpService
+namespace Together.Services.HttpService
 {
     public class HttpServiceTests
     {
