@@ -1,5 +1,6 @@
 {
   "userSecretsId": "aspnet-WebApplication-0799fe3e-6eaf-4c5f-b40e-7c6bfd5dfa9a",
+  "testRunner": "xunit",
 
   "dependencies": {
     "Microsoft.NETCore.App": {
@@ -30,7 +31,11 @@
     "Microsoft.VisualStudio.Web.CodeGenerators.Mvc": {
       "version": "1.0.0-preview2-update1",
       "type": "build"
-    }
+    },
+
+    "xunit": "2.1.0",
+    "dotnet-test-xunit": "1.0.0-rc2-192208-24",
+    "moq": "4.7.1"
   },
 
   "tools": {
